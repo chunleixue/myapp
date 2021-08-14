@@ -18,7 +18,7 @@
         >
           <el-submenu index="1">
             <template #title>
-              <span>Dashboard</span>
+              <span>Dashboard-xiao</span>
             </template>
             <el-menu-item-group>
               <el-menu-item index="/introduce"><i class="el-icon-data-line" />系统介绍</el-menu-item>
