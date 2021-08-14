@@ -356,7 +356,7 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@sentry/browser@6.3.1", "@sentry/browser@^6.3.1":
+"@sentry/browser@^6.3.1":
   version "6.3.1"
   resolved "https://registry.nlark.com/@sentry/browser/download/@sentry/browser-6.3.1.tgz#6142dd4c72308f4e1a12e585e3300fd54ca058cd"
   integrity sha1-YULdTHIwj04aEuWF4zAP1UygWM0=
@@ -417,18 +417,6 @@
   integrity sha1-bY5pETm1tJ2MZVrR3K8ss/8NCwM=
   dependencies:
     "@sentry/types" "6.3.1"
-    tslib "^1.9.3"
-
-"@sentry/vue@^6.3.1":
-  version "6.3.1"
-  resolved "https://registry.nlark.com/@sentry/vue/download/@sentry/vue-6.3.1.tgz#1d44d9838fa12283441b9fab87be708a2590a1da"
-  integrity sha1-HUTZg4+hIoNEG5+rh75wiiWQodo=
-  dependencies:
-    "@sentry/browser" "6.3.1"
-    "@sentry/core" "6.3.1"
-    "@sentry/minimal" "6.3.1"
-    "@sentry/types" "6.3.1"
-    "@sentry/utils" "6.3.1"
     tslib "^1.9.3"
 
 "@types/accepts@*":
@@ -2246,9 +2234,9 @@ path-match@^1.2.4:
     path-to-regexp "^1.0.0"
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@^1.0.0:
   version "1.8.0"
