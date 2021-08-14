@@ -29,7 +29,7 @@ export const uploadImgsServer = 'http://backend-api-02.newbee.ltd/manage-api/v1/
 export const pathMap = {
   login: '登录',
   introduce: '系统介绍',
-  dashboard: '大盘数据',
+  dashboard: '股市大盘数据',
   add: '添加商品',
   swiper: '轮播图配置',
   hot: '热销商品配置',
