@@ -9,7 +9,7 @@ module.exports = {
     production: {
       user: 'root',
       host: '121.5.28.174',
-      ref: 'origin/main',
+      ref: 'origin/master',
       repo: 'git@github.com:chunleixue/myapp.git',
       path: '/workspace/vue3-admin',
       'post-deploy': 'git reset --hard && git checkout main && git pull && npm i --production=false && pm2 startOrReload ecosystem.config.js', // -production=false 下载全量包
