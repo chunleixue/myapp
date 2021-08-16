@@ -5,7 +5,8 @@
     "dev": "vite --mode development",
     "build:beta": "vite build --mode beta",
     "build:release": "vite build --mode release",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "server" : "node vue3-admin-server.js"
   },
   "dependencies": {
     "@sentry/browser": "^6.3.1",
