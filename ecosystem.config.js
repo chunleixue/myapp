@@ -8,7 +8,7 @@ module.exports = {
   deploy: {
     production: {
       user: 'root',
-      host: '121.5.28.174',
+      host: '127.0.0.1',
       ref: 'origin/master',
       repo: 'git@github.com:chunleixue/myapp.git',
       path: '/workspace/vue3-admin',
