@@ -30,7 +30,7 @@
     "babel-plugin-component": "^1.1.1",
     "babel-plugin-import": "^1.13.3",
     "element-theme-chalk": "^2.15.1",
-    "vite": "^2.0.1",
+    "vite": "^2.9.13",
     "vite-babel-plugin": "^0.0.2",
     "vite-plugin-babel-import": "^2.0.2",
     "vite-plugin-imp": "^2.0.4"
